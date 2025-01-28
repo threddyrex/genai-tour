@@ -1,2 +1,3 @@
 # genai-tour
-Learning AI
+
+Getting up to speed on programming gen ai.
