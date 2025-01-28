@@ -1,0 +1,11 @@
+python .\starter.py $dataDir $prompt False
+12:19:48 dataDir: .\specs\
+12:19:48 prompt: Please give me a three-sentence summary about DIDs.
+12:19:48 verboseLogging: False
+12:19:48 documents
+12:19:48 Settings.embed_model
+12:19:50 Settings.llm
+12:19:50 VectorStoreIndex.from_documents()
+12:19:53 index.as_query_engine()
+12:19:53 query_engine.query()
+12:20:02 The proposed specification for the AT Protocol DID Identifier Syntax (DID). We have decided to support the W3C standard that is now widely accepted by the internet community, and instead we will use the current version of the DID Core specification which already contains a set of supported methods.
