@@ -1,0 +1,10 @@
+09:36:03 dataDir: .\specs\
+09:36:03 prompt: can you tell me what you know about DIDs
+09:36:03 verboseLogging: False
+09:36:03 load_data()
+09:36:03 HuggingFaceEmbedding()
+09:36:04 Ollama()
+09:36:04 VectorStoreIndex.from_documents()
+09:36:48 index.as_query_engine()
+09:36:48 query_engine.query()
+09:37:04 Persistent decentralized identifiers (as used in atproto) are referred to as Decentralized Identifiers (DIDs). DIDs are a W3C standard that provides persistent, long-term account identifiers. Atproto supports two DID methods: `did:web` and `did:plc`.
