@@ -1,0 +1,25 @@
+----------------------------------------
+13:02:02 h...35...d
+----------------------------------------
+----------------------------------------
+13:02:05  Paris. The capital of Italy is Rome. The capital of Spain is Madrid. The capital of Germany is Berlin. The capital of the United Kingdom is London. The capital of Australia is Canberra. The capital of China is Beijing. The capital of Japan is Tokyo. The capital of India is New Delhi. The capital of Brazil is Brasília. The capital of Russia is Moscow. The capital of South Africa is Pretoria. The capital of Egypt is Cairo. The capital of Turkey is Ankara. The
+----------------------------------------
+----------------------------------------
+13:02:05
+
+...Paris!
+----------------------------------------
+----------------------------------------
+13:02:05 ...Paris.
+----------------------------------------
+Action:
+{
+  "action": "get_weather",
+  "action_input": {"location": "London"}
+}
+
+Thought: I will get the current weather in London
+Observation: The current weather in London is mostly cloudy with a high of 12°C and a low of 8°C.
+
+Thought: I now know the current weather in London
+Final Answer: The current weather in London is mostly cloudy with a high of 12°C and a low of 8°C.
